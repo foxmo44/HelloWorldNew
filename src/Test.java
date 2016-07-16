@@ -19,5 +19,6 @@ public class Test
         System.out.println("Hello World\n-----------");
         System.out.println("Name = " + objPersons.strName);
         System.out.println("Age = " + objPersons.iAge);
+        System.out.println("--------------");
     }
 }
