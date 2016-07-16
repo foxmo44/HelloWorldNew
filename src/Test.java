@@ -16,6 +16,7 @@ public class Test
         //aPersons[2].iAge = 9;
 
         //Actually write the string to the console
+        System.out.println("--------------");
         System.out.println("Hello World");
         System.out.println("--------------");
         System.out.println("Name = " + objPersons.strName);
