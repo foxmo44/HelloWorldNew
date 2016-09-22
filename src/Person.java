@@ -4,6 +4,6 @@
 public class Person {
 
     String  strName;        //Persons name
-    int     iAge;           //Age
+    int     iAge;           //Age of the person
 
 }
