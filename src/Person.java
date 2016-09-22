@@ -3,7 +3,7 @@
  */
 public class Person {
 
-    String  strName;
-    int     iAge;
+    String  strName;        //Persons name
+    int     iAge;           //Age
 
 }
